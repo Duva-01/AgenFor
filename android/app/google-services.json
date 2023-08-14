@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "69670143552",
+    "project_id": "agenfor-56cb4",
+    "storage_bucket": "agenfor-56cb4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69670143552:android:be9cbbe5eb2fe85625c1a5",
+        "android_client_info": {
+          "package_name": "com.david.agenfor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69670143552-616i5pu62029r8b2bs696g5d9p3h2s2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuYrl-tWGrHONIFh9Ne8VDvjB6t9tQJZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69670143552-616i5pu62029r8b2bs696g5d9p3h2s2a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69670143552:android:f37a9adf8b546f8e25c1a5",
+        "android_client_info": {
+          "package_name": "com.example.agenda_informatico"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69670143552-616i5pu62029r8b2bs696g5d9p3h2s2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuYrl-tWGrHONIFh9Ne8VDvjB6t9tQJZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69670143552-616i5pu62029r8b2bs696g5d9p3h2s2a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
